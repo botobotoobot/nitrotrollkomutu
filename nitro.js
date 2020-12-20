@@ -10,7 +10,7 @@ const yardım = new Discord.MessageEmbed()
 .setDescription(`
 
 
-Nitromu İstiyorsun? <:diaboost:777644355502604318> \n\n||Gerçekten Bu Komutun Nitro Vereceğini Sandıysan Helal Olsun :D||
+Nitromu İstiyorsun? UwU \n\n||Gerçekten Bu Komutun Nitro Vereceğini Sandıysan Helal Olsun :D||
 
 `)
 .setImage("https://cdn.discordapp.com/attachments/740871896614043669/748878433840398367/Baslksz-1.png")
