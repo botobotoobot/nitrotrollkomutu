@@ -6,7 +6,7 @@ exports.run = function(client, message) {
 
 const yardım = new Discord.MessageEmbed()
 .setColor('RANDOM')
-.setAuthor(`Bonnie`)
+.setAuthor(`Botunuzunİsmi`)
 .setDescription(`
 
 
